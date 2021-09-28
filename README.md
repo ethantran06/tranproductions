@@ -1,6 +1,6 @@
 ## This is My Website!
 
-You can use the [editor on GitHub](https://github.com/ethantran06/tranproductions/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+If I'm going to be honest, I don't know what to make my website about so I will just be typing random words for now in order to fill up space.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
