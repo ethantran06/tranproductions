@@ -1,10 +1,7 @@
 ## Why Pineapple Belongs on Pizza
 
-# Header 1
-
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+# Taste
+One may make the argument that fruits don't belong on pizza, but that actually is quite ironic becuase all pizzas are comprised of tomato sauce, which is another form of a fruit. Pineapple's existence transforms pizza to greater lengths that are unexplainable, due to its exquisite umami and one of a kind aroma.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
