@@ -1,6 +1,6 @@
-## Why Pineapple Belongs on Pizza
+# Why Pineapple Belongs on Pizza
 
-# Taste
+### Taste
 One may make the argument that fruits don't belong on pizza, but that actually is quite ironic becuase all pizzas are comprised of tomato sauce, which is another form of a fruit. Pineapple's existence transforms pizza to greater lengths that are unexplainable, due to its exquisite umami and one of a kind aroma.
 ### Markdown
 
@@ -21,7 +21,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[https://www.jessicagavin.com/wp-content/uploads/2020/07/hawaiian-pizza-16-1200.jpg](url) and ![Image](src)
+[Link](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
