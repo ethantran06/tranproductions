@@ -27,7 +27,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+IF you don't take my words as one from a valid source, view [this link from Domino's themselves](https://newsroom.dominos.com.au/blog/2020/1/22/why-pineapple-belongs-on-pizza#:~:text=Sweet%20and%20salty&text=It's%20juice%2C%20luscious%20and%20syrupy,create%20a%20heavenly%20taste%20sensation.).
 
 ### Jekyll Themes
 
