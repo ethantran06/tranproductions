@@ -5,8 +5,9 @@ One may make the argument that fruits don't belong on pizza, but that actually i
 ![hawaiian-pizza-16-1200](https://user-images.githubusercontent.com/91553864/135302492-119e17de-9377-4a67-b197-0c670e2ad299.jpg) 
 
 ## Aesthetic
-Pizza without pineapple is 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Pizza without pineapple is like a baby without its clothes, nobody wants to see it. Its bright, yellow vibrance adds a delicate sight that pleases the eyes, as opposed to any other topping such as an olive, as its black shade can send chills down the spine of anyone who dares to look at it
+![pineapple-opener](https://user-images.githubusercontent.com/91553864/135303850-7a487801-163a-4ff4-ba3d-6d51a33701fc.jpg)
+
 
 ```markdown
 Syntax highlighted code block
